@@ -97,7 +97,7 @@ titanic-survival-prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/titanic-survival-prediction.git
+git clone https://github.com/Origin132/titanic-survival-prediction.git
 cd titanic-survival-prediction
 ```
 
