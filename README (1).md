@@ -133,5 +133,7 @@ python predict.py
 **Sambo Bashir**
 Aspiring AI/ML Engineer | Data Science Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sambo-bashir-3a9648185/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Origin132)
+
+Update author links in README
